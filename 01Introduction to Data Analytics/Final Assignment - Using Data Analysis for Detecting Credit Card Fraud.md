@@ -9,6 +9,7 @@ In order to prescribe a way forward, that is, suggest what should be done in ord
 
 Here is a sample data set that captures the credit card transaction details for a few users.
 
+![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/RT7W3bteTX2-1t27Xr19Tw_27ccfcd2e65b4752920e81fda1ae8c5d_DA_1-Image_DataSet_Reading.png?expiry=1610668800000&hmac=IlTkKF6cPxzHpMzGXXPcsODJjYepbJj-MF6V2To2qjY)
 
 Descriptive techniques of analysis, that is, techniques that help you gain an understanding of what happened, include the identification of patterns and anomalies in data. Anomalies signify a variation in a pattern that seems uncharacteristic, or, out of the ordinary. Anomalies may occur for perfectly valid and genuine reasons, but they do warrant an evaluation because they can be a sign of fraudulent activity.  
 
